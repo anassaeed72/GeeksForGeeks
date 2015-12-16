@@ -1,0 +1,113 @@
+TStringPermute
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/StringPermute/Build/Intermediates/StringPermute.build/Debug/StringPermute.build/Objects-normal/x86_64/main.o /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/StringPermute/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/DerivedData/StringPermute/Build/Products/Debug/StringPermute normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c00000000530295C000000000000000AA
+t1392678336
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000538BA550000000000000044C
+t1401660752
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000538BA55000000000000001DE
+t1401660752
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000538BA57A0000000000000ADC
+t1401660794
+s2780
+
+N/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/DerivedData/StringPermute/Build/Intermediates/StringPermute.build/Debug/StringPermute.build/Objects-normal/x86_64/StringPermute.LinkFileList
+c000000005469C74E00000000000000B9
+t1416218446
+s185
+
+N/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/DerivedData/StringPermute/Build/Intermediates/StringPermute.build/Debug/StringPermute.build/Objects-normal/x86_64/main.o
+t1416218449
+s67712
+
+N/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/DerivedData/StringPermute/Build/Products/Debug/StringPermute
+t2
+s0
+
+N/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/StringPermute/main.cpp
+c000000005469C741000000000000011A
+t1416218433
+s282
+
+CBuild AST from /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/StringPermute/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies0f5eb7cefe19ba41^e63fbccefe19ba41^-284"OS X deployment target '10.10' for architecture 'x86_64' and variant 'normal' is greater than the maximum value '10.9' for the OS X 10.9 SDK.OS X deployment target '10.10' for architecture 'x86_64' and variant 'normal' is greater than the maximum value '10.9' for the OS X 10.9 SDK.2(21%IDEActivityLogMessage2@141"OS X deployment target '10.10' for architecture 'x86_64' and variant 'normal' is greater than the maximum value '10.9' for the OS X 10.9 SDK.-437911246#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@141"OS X deployment target '10.10' for architecture 'x86_64' and variant 'normal' is greater than the maximum value '10.9' for the OS X 10.9 SDK.-437911246#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#1#--18"Check dependencies36"9E902221-EEEC-41E4-9F5D-AF66F2B78368-
+
+CCompileC DerivedData/StringPermute/Build/Intermediates/StringPermute.build/Debug/StringPermute.build/Objects-normal/x86_64/main.o /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/StringPermute/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s437911246.747574
+e437911249.614781
+r1
+xCompileC
+xDerivedData/StringPermute/Build/Intermediates/StringPermute.build/Debug/StringPermute.build/Objects-normal/x86_64/main.o
+x/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/StringPermute/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/StringPermute/main.cpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/StringPermute/main.cpp214"CompileC DerivedData/StringPermute/Build/Intermediates/StringPermute.build/Debug/StringPermute.build/Objects-normal/x86_64/main.o StringPermute/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerc79cbfcefe19ba41^bb639dd1fe19ba41^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/StringPermute/main.cpp0000000000000000^3733"CompileC DerivedData/StringPermute/Build/Intermediates/StringPermute.build/Debug/StringPermute.build/Objects-normal/x86_64/main.o StringPermute/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.10 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/DerivedData/StringPermute/Build/Intermediates/StringPermute.build/Debug/StringPermute.build/StringPermute-generated-files.hmap -I/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/DerivedData/StringPermute/Build/Intermediates/StringPermute.build/Debug/StringPermute.build/StringPermute-own-target-headers.hmap -I/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/DerivedData/StringPermute/Build/Intermediates/StringPermute.build/Debug/StringPermute.build/StringPermute-all-target-headers.hmap -iquote /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/DerivedData/StringPermute/Build/Intermediates/StringPermute.build/Debug/StringPermute.build/StringPermute-project-headers.hmap -I/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/DerivedData/StringPermute/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/DerivedData/StringPermute/Build/Intermediates/StringPermute.build/Debug/StringPermute.build/DerivedSources/x86_64 -I/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/DerivedData/StringPermute/Build/Intermediates/StringPermute.build/Debug/StringPermute.build/DerivedSources -F/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/DerivedData/StringPermute/Build/Products/Debug -MMD -MT dependencies -MF /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/DerivedData/StringPermute/Build/Intermediates/StringPermute.build/Debug/StringPermute.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/DerivedData/StringPermute/Build/Intermediates/StringPermute.build/Debug/StringPermute.build/Objects-normal/x86_64/main.dia -c /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/StringPermute/main.cpp -o /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/DerivedData/StringPermute/Build/Intermediates/StringPermute.build/Debug/StringPermute.build/Objects-normal/x86_64/main.o36"19FFA6DE-EB6B-4F88-AD46-EEDBF402566F-
+bE6F56319-D213-4156-8C4C-5B275FF62622
+
+CLd /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/DerivedData/StringPermute/Build/Products/Debug/StringPermute normal x86_64
+s437911249.615921
+e437911249.817351
+r1
+xLd
+x/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/DerivedData/StringPermute/Build/Products/Debug/StringPermute
+xnormal
+xx86_64
+d/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/DerivedData/StringPermute/Build/Intermediates/StringPermute.build/Debug/StringPermute.build/Objects-normal/x86_64/StringPermute.LinkFileList
+d/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/DerivedData/StringPermute/Build/Intermediates/StringPermute.build/Debug/StringPermute.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Link /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/DerivedData/StringPermute/Build/Products/Debug/StringPermute77"Ld DerivedData/StringPermute/Build/Products/Debug/StringPermute normal x86_6416c39dd1fe19ba41^103dd1d1fe19ba41^---0#0#1#--1270"Ld DerivedData/StringPermute/Build/Products/Debug/StringPermute normal x86_64    cd /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute    export MACOSX_DEPLOYMENT_TARGET=10.10    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/DerivedData/StringPermute/Build/Products/Debug -F/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/DerivedData/StringPermute/Build/Products/Debug -filelist /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/DerivedData/StringPermute/Build/Intermediates/StringPermute.build/Debug/StringPermute.build/Objects-normal/x86_64/StringPermute.LinkFileList -mmacosx-version-min=10.10 -stdlib=libc++ -Xlinker -dependency_info -Xlinker /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/DerivedData/StringPermute/Build/Intermediates/StringPermute.build/Debug/StringPermute.build/Objects-normal/x86_64/StringPermute_dependency_info.dat -o /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/StringPermute/DerivedData/StringPermute/Build/Products/Debug/StringPermute36"DEE79530-5CA2-485E-B205-503443D2B54C-
+bE6F56319-D213-4156-8C4C-5B275FF62622
+
