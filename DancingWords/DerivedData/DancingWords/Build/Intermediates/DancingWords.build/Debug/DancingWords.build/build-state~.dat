@@ -1,0 +1,113 @@
+TDancingWords
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/DancingWords/Build/Intermediates/DancingWords.build/Debug/DancingWords.build/Objects-normal/x86_64/main.o /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DancingWords/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DerivedData/DancingWords/Build/Products/Debug/DancingWords normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c00000000530295C000000000000000AA
+t1392678336
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000538BA550000000000000044C
+t1401660752
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000538BA55000000000000001DE
+t1401660752
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000538BA57A0000000000000ADC
+t1401660794
+s2780
+
+N/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DancingWords/main.cpp
+c000000005461A28C0000000000000119
+t1415684748
+s281
+
+N/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DerivedData/DancingWords/Build/Intermediates/DancingWords.build/Debug/DancingWords.build/Objects-normal/x86_64/DancingWords.LinkFileList
+c000000005461A29100000000000000B5
+t1415684753
+s181
+
+N/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DerivedData/DancingWords/Build/Intermediates/DancingWords.build/Debug/DancingWords.build/Objects-normal/x86_64/main.o
+t1415684753
+s67712
+
+N/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DerivedData/DancingWords/Build/Products/Debug/DancingWords
+t2
+s0
+
+CBuild AST from /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DancingWords/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesd68d0f11da11ba41^34ba1311da11ba41^-284"OS X deployment target '10.10' for architecture 'x86_64' and variant 'normal' is greater than the maximum value '10.9' for the OS X 10.9 SDK.OS X deployment target '10.10' for architecture 'x86_64' and variant 'normal' is greater than the maximum value '10.9' for the OS X 10.9 SDK.2(21%IDEActivityLogMessage2@141"OS X deployment target '10.10' for architecture 'x86_64' and variant 'normal' is greater than the maximum value '10.9' for the OS X 10.9 SDK.-437377553#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@141"OS X deployment target '10.10' for architecture 'x86_64' and variant 'normal' is greater than the maximum value '10.9' for the OS X 10.9 SDK.-437377553#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#1#--18"Check dependencies36"2A447239-9BBD-4C54-8317-F2103958A9DA-
+
+CCompileC DerivedData/DancingWords/Build/Intermediates/DancingWords.build/Debug/DancingWords.build/Objects-normal/x86_64/main.o /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DancingWords/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s437377553.077719
+e437377553.760521
+r1
+xCompileC
+xDerivedData/DancingWords/Build/Intermediates/DancingWords.build/Debug/DancingWords.build/Objects-normal/x86_64/main.o
+x/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DancingWords/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DancingWords/main.cpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DancingWords/main.cpp210"CompileC DerivedData/DancingWords/Build/Intermediates/DancingWords.build/Debug/DancingWords.build/Objects-normal/x86_64/main.o DancingWords/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler64041411da11ba41^57afc211da11ba41^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DancingWords/main.cpp0000000000000000^3681"CompileC DerivedData/DancingWords/Build/Intermediates/DancingWords.build/Debug/DancingWords.build/Objects-normal/x86_64/main.o DancingWords/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.10 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DerivedData/DancingWords/Build/Intermediates/DancingWords.build/Debug/DancingWords.build/DancingWords-generated-files.hmap -I/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DerivedData/DancingWords/Build/Intermediates/DancingWords.build/Debug/DancingWords.build/DancingWords-own-target-headers.hmap -I/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DerivedData/DancingWords/Build/Intermediates/DancingWords.build/Debug/DancingWords.build/DancingWords-all-target-headers.hmap -iquote /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DerivedData/DancingWords/Build/Intermediates/DancingWords.build/Debug/DancingWords.build/DancingWords-project-headers.hmap -I/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DerivedData/DancingWords/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DerivedData/DancingWords/Build/Intermediates/DancingWords.build/Debug/DancingWords.build/DerivedSources/x86_64 -I/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DerivedData/DancingWords/Build/Intermediates/DancingWords.build/Debug/DancingWords.build/DerivedSources -F/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DerivedData/DancingWords/Build/Products/Debug -MMD -MT dependencies -MF /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DerivedData/DancingWords/Build/Intermediates/DancingWords.build/Debug/DancingWords.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DerivedData/DancingWords/Build/Intermediates/DancingWords.build/Debug/DancingWords.build/Objects-normal/x86_64/main.dia -c /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DancingWords/main.cpp -o /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DerivedData/DancingWords/Build/Intermediates/DancingWords.build/Debug/DancingWords.build/Objects-normal/x86_64/main.o36"4ED57BFD-3D76-494E-AE64-0A84B29C19D5-
+b5512AE58-4AC2-4165-A845-90DC1A1AFC15
+
+CLd /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DerivedData/DancingWords/Build/Products/Debug/DancingWords normal x86_64
+s437377553.761429
+e437377553.802703
+r1
+xLd
+x/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DerivedData/DancingWords/Build/Products/Debug/DancingWords
+xnormal
+xx86_64
+d/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DerivedData/DancingWords/Build/Intermediates/DancingWords.build/Debug/DancingWords.build/Objects-normal/x86_64/DancingWords.LinkFileList
+d/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DerivedData/DancingWords/Build/Intermediates/DancingWords.build/Debug/DancingWords.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Link /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DerivedData/DancingWords/Build/Products/Debug/DancingWords75"Ld DerivedData/DancingWords/Build/Products/Debug/DancingWords normal x86_647904c311da11ba41^307fcd11da11ba41^---0#0#1#--1250"Ld DerivedData/DancingWords/Build/Products/Debug/DancingWords normal x86_64    cd /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords    export MACOSX_DEPLOYMENT_TARGET=10.10    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DerivedData/DancingWords/Build/Products/Debug -F/Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DerivedData/DancingWords/Build/Products/Debug -filelist /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DerivedData/DancingWords/Build/Intermediates/DancingWords.build/Debug/DancingWords.build/Objects-normal/x86_64/DancingWords.LinkFileList -mmacosx-version-min=10.10 -stdlib=libc++ -Xlinker -dependency_info -Xlinker /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DerivedData/DancingWords/Build/Intermediates/DancingWords.build/Debug/DancingWords.build/Objects-normal/x86_64/DancingWords_dependency_info.dat -o /Users/AnasSaeed/Documents/Programs/GeeksForGeeks/DancingWords/DerivedData/DancingWords/Build/Products/Debug/DancingWords36"EE0FD63C-EA13-46D9-A01A-EF8DADF1665F-
+b5512AE58-4AC2-4165-A845-90DC1A1AFC15
+
